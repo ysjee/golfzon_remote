@@ -3,4 +3,3 @@ hot fix master_1 hotifx_2
 remote_1 local_1 remote_2
 master_2
 revert_1
-revert_2
